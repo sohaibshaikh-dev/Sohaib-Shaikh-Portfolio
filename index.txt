@@ -1,0 +1,236 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Sohaib Shaikh
+Sohaib Shaikh
+Web developer
+
+Show Contacts
+
+Email
+sohaibshaikh186@gmail.com
+
+Phone
+03163229677
+
+Birthday
+10/10/2008
+
+Location
+Karachi, Pakistan
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am a Creative Director and UI/UX Designer based in Karachi, Pakistan, working across web development and print media. I enjoy transforming complex ideas and challenges into simple, modern, and user-friendly designs.
+
+My focus is on creating websites and visual experiences that are not only visually appealing but also functional, intuitive, and easy to use. I bring a personal and thoughtful approach to every project, ensuring each product feels unique, engaging, and effective.
+
+My goal is to clearly communicate a client’s message and brand identity through creative and professional design solutions. I have successfully worked on a variety of web and design projects for different clients and brands.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Sohaib was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Sohaib was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Sohaib was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Sohaib was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Matriculation (10th grade)
+2024 — Present
+Karachi, Pakistan
+
+Experience
+
+Creative Director
+2015 — Present
+Leading creative projects and managing design teams to deliver innovative digital solutions. Responsible for client communications, project planning, and ensuring high-quality outcomes.
+
+Art Director
+2013 — 2015
+Oversaw visual design and artistic direction for multiple campaigns. Collaborated with designers and marketing teams to create compelling visuals aligned with brand goals.
+
+Web Designer
+2010 — 2013
+Designed and developed user-friendly websites, focusing on responsive design and user experience. Worked closely with clients to meet their web development needs.
+
+My skills
+
+Web design
+80%
+Graphic design
+70%
+Branding
+90%
+WordPress
+80%
+Shopify
+60%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = DSI Capital
+DSI Capital
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
